@@ -1,0 +1,15 @@
+G:\с#projects\3layerproject\DAL\bin\Debug\net5.0\DAL.deps.json
+G:\с#projects\3layerproject\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+G:\с#projects\3layerproject\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+G:\с#projects\3layerproject\DAL\bin\Debug\net5.0\DAL.dll
+G:\с#projects\3layerproject\DAL\bin\Debug\net5.0\ref\DAL.dll
+G:\с#projects\3layerproject\DAL\bin\Debug\net5.0\DAL.pdb
+G:\с#projects\3layerproject\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+G:\с#projects\3layerproject\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\с#projects\3layerproject\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+G:\с#projects\3layerproject\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+G:\с#projects\3layerproject\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+G:\с#projects\3layerproject\DAL\obj\Debug\net5.0\DAL.dll
+G:\с#projects\3layerproject\DAL\obj\Debug\net5.0\ref\DAL.dll
+G:\с#projects\3layerproject\DAL\obj\Debug\net5.0\DAL.pdb
+G:\с#projects\3layerproject\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
